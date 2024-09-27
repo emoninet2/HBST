@@ -18688,7 +18688,7 @@
 		)
 	)
 	(gr_text "Bananaquit"
-		(at 143 125.55 0)
+		(at 142.3 125.1 0)
 		(layer "F.SilkS")
 		(uuid "5db6ba48-cee2-4944-8233-50364a306d72")
 		(effects
@@ -18761,6 +18761,19 @@
 		(effects
 			(font
 				(size 1.6 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "University of Oslo\nDepartment of Informatics\nV1RevA 27 Sep 2024 \n"
+		(at 138.8 72.3 0)
+		(layer "F.SilkS")
+		(uuid "f9a2ec75-9d87-46e8-8df6-f12e35834199")
+		(effects
+			(font
+				(size 1.5 1.5)
 				(thickness 0.3)
 				(bold yes)
 			)
